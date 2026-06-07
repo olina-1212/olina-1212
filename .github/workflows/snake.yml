@@ -22,14 +22,18 @@ jobs:
           github_user_name: olina-1212
           outputs: dist/github-snake.svg
 
-      - name: Push to output branch
+      - name: Commit and push snake
         run: |
-          cd dist
-          git init
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add .
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git checkout --orphan output
+          git rm -rf .
+
+          mkdir dist
+          cp -r dist/github-snake.svg .
+
+          git add github-snake.svg
           git commit -m "snake update"
-          git branch -M output
-          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git outputst
-          publish_branch: output
+
+          git push --force origin output
