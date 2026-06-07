@@ -15,9 +15,11 @@ width="210" align="left" style="margin-right: 15px;">
 
 <h3>Hey there! I’m Olina 👋</h3>
 
-I’m a first-year Computer Science (CSE) student passionate about software development and AI/ML.  
-I enjoy building projects, solving problems, and learning new technologies step by step.
+I’m Olina Chakraborty — a first-year Computer Science student at IEM, currently in that phase where code either runs perfectly or personally attacks me, with no in-between.
 
+I work mainly with Java (and occasionally argue with it), while slowly stepping into web development and exploring AI/ML — mostly fueled by curiosity, caffeine, and the belief that “it’ll work this time” is a valid debugging strategy.
+
+Long story short: I’m not just studying computer science — I’m trying to convince it to cooperate with me.
 <br><br>
 
 <hr>
