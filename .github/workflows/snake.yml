@@ -5,21 +5,21 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: olina-1212
           outputs: dist/github-snake.svg
 
-      - name: Push to output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
