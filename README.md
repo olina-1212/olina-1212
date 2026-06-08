@@ -15,7 +15,7 @@ width="210" align="left" style="margin-right: 15px;">
 
 <h3>Hey there! I’m Olina 👋</h3>
 
-I’m Olina Chakraborty — a first-year Computer Science student at IEM, currently in that phase where code either runs perfectly or personally attacks me, with no in-between.
+I’m a first-year Computer Science student, currently in that phase where code either runs perfectly or personally attacks me, with no in-between.
 
 I work mainly with Java (and occasionally argue with it), while slowly stepping into web development and exploring AI/ML — mostly fueled by curiosity, caffeine, and the belief that “it’ll work this time” is a valid debugging strategy.
 
@@ -58,8 +58,19 @@ width="170" align="right" style="margin-left: 15px;">
   <a href="mailto:olinach12@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
+<br> <hr> <br>
 
+<div align="center">
+  <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
+  
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/olina-1212/olina-1212/output/github-snake-dark.svg" width="100%">
+</div>
 ---
+<hr>
 <br>
 <div align="center">
 
