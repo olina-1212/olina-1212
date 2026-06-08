@@ -1,5 +1,5 @@
 <a href="https://github.com/olina-1212">
-  <img src="https://i.postimg.cc/vHsQ0wRw/Gemini-Generated-Image-yc8ulhyc8ulhyc8u-(1).png" width="100%" alt="Olina Banner"/>
+  <img src="https://i.ibb.co/gMxnHNWf/olina-banner.png" width="100%" alt="Olina Banner"/>
 </a>
 
 <br>
@@ -30,7 +30,7 @@ width="170" align="right" style="margin-left: 15px;">
 <h3>Top Projects (while learning)</h3>
 
 <a href="https://github.com/olina-1212/Trackora">
-  <img src="https://img.shields.io/badge/Internship%20Tracker-000000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Trackora-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 &nbsp; Full-stack app to track internship applications and deadlines.<br>
 
@@ -60,8 +60,7 @@ width="170" align="right" style="margin-left: 15px;">
 </div>
 
 ---
-
-## 🛠 Tech Stack
+<br>
 <div align="center">
 
   <img src="https://i.postimg.cc/8PmQWYw9/Whats-App-Image-2026-03-05-at-11-05-19-PM-(1).jpg" width="100%">
