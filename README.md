@@ -19,7 +19,7 @@ I’m a first-year Computer Science student, currently in that phase where code 
 
 I work mainly with Java, spending a good amount of time solving DSA problems, building projects, and occasionally questioning choices that led to a 200-line debugging session. Alongside that, I'm slowly stepping into web development and AI/ML, learning by building things and figuring them out as I go.
 
-Most of my projects start with a simple idea and end with me opening 17 tabs, reading documentation, and hoping the latest fix doesn't create three new problems. Somehow, it usually works out—and when it doesn't, at least there's another commit coming.
+I'm always working on something new, whether it's a project, a problem, or a bug that has somehow survived three different "final fixes".
 <br><br>
 
 <hr>
