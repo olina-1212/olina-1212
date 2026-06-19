@@ -17,9 +17,9 @@ width="210" align="left" style="margin-right: 15px;">
 
 I’m a first-year Computer Science student, currently in that phase where code either runs perfectly or personally attacks me, with no in-between.
 
-I work mainly with Java (and occasionally argue with it), while slowly stepping into web development and exploring AI/ML — mostly fueled by curiosity, caffeine, and the belief that “it’ll work this time” is a valid debugging strategy.
+I work mainly with Java, spending a good amount of time solving DSA problems, building projects, and occasionally questioning choices that led to a 200-line debugging session. Alongside that, I'm slowly stepping into web development and AI/ML, learning by building things and figuring them out as I go.
 
-Long story short: I’m not just studying computer science — I’m trying to convince it to cooperate with me.
+Most of my projects start with a simple idea and end with me opening 17 tabs, reading documentation, and hoping the latest fix doesn't create three new problems. Somehow, it usually works out—and when it doesn't, at least there's another commit coming.
 <br><br>
 
 <hr>
